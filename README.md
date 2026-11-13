@@ -7,8 +7,7 @@ Color 1 × #9c03d4
 Color 2 × #580d8e
 Lightest/Darkest accent × #fff
 Fontawesome icons × fa-skull
-Images × <img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/acb4521f-2185-4203-8b1b-9e52bae7d770" />
-
+Images × MB_IMG_HERE
     ==================== -->
 
 <!-- Mess around with this div if frankensteining into another code! -->
@@ -27,7 +26,7 @@ Images × <img width="736" height="414" alt="image" src="https://github.com/user
     <div class="col mx-2 p-1 rounded" style="height: 115px; border: 2px solid #580d8e;">
         <div class="h-100" style="background-size: cover; background-position: center; border: 4px double #9c03d4; border-radius: 1px;
 
-        background-image: https://i.pinimg.com/1200x/eb/ff/fc/ebfffc4274d633608a8e339d548d8730.jpg;">
+        background-image: url(MB_IMG_HERE);">
 
             <div class="h-100 w-100 align-items-center justify-content-center">
                 <i class="fal fa-skull fa-3x" style="color: #fff;"></i>
@@ -36,7 +35,7 @@ Images × <img width="736" height="414" alt="image" src="https://github.com/user
     <div class="col p-1 rounded" style="height: 115px; border: 4px solid #fff; border-width: 2px;">
         <div class="h-100" style="background-size: cover; background-position: center; border: 4px double #9c03d4; border-radius: 1px;
 
-        background-image: https://i.pinimg.com/1200x/eb/ff/fc/ebfffc4274d633608a8e339d548d8730.jpg;">
+        background-image: url(MB_IMG_HERE);">
 
             <div class="h-100 w-100 align-items-center justify-content-center" style="font-size: 9px;">
                 <i class="fas fa-duotone fa-quote-right fa-3x" style="position: absolute; right: 15px; top: 10px; opacity: 0.5; color: #fff;"></i>
@@ -53,7 +52,7 @@ Images × <img width="736" height="414" alt="image" src="https://github.com/user
     <div class="col my-2 p-1 rounded" style="height: 115px; border: 2px solid #580d8e;">
         <div class="h-100" style="background-size: cover; background-position: center; border: 4px double #9c03d4; border-radius: 1px;
 
-        background-image: https://i.pinimg.com/1200x/eb/ff/fc/ebfffc4274d633608a8e339d548d8730.jpg;">
+        background-image: url(MB_IMG_HERE);">
 
             <div class="h-100 w-100 align-items-center justify-content-center">
                 <i class="fal fa-skull fa-3x" style="color: #fff;"></i>
@@ -61,13 +60,13 @@ Images × <img width="736" height="414" alt="image" src="https://github.com/user
 
     <div class="col m-2 p-1 rounded" style="height: 115px; border: 4px solid #9c03d4; border-width: 2px;">
         <div class="h-100" style="background-size: cover; background-position: center; border: 4px double #fff; border-radius: 1px;
-        background-image: https://i.pinimg.com/1200x/eb/ff/fc/ebfffc4274d633608a8e339d548d8730.jpg;">
+        background-image: url(MB_IMG_HERE);">
     </div></div>
 
     <div class="col my-2 p-1 rounded" style="height: 115px; border: 2px solid #580d8e;">
         <div class="h-100" style="background-size: cover; background-position: center; border: 4px double #9c03d4; border-radius: 1px;
 
-        background-image: https://i.pinimg.com/1200x/eb/ff/fc/ebfffc4274d633608a8e339d548d8730.jpg;">
+        background-image: url(MB_IMG_HERE);">
 
             <div class="h-100 w-100 align-items-center justify-content-center">
                 <i class="fal fa-skull fa-3x" style="color: #fff;"></i>
@@ -82,7 +81,7 @@ Images × <img width="736" height="414" alt="image" src="https://github.com/user
     <div class="col p-1 rounded" style="height: 115px; border: 2px solid #fff;">
         <div class="h-100" style="background-size: cover; background-position: center; border: 4px double #9c03d4; border-radius: 1px;
 
-        background-image: https://i.pinimg.com/1200x/eb/ff/fc/ebfffc4274d633608a8e339d548d8730.jpg;">
+        background-image: url(MB_IMG_HERE);">
 
             <div class="h-100 w-100 align-items-center justify-content-center" style="font-size: 9px;">
                 <i class="fas fa-duotone fa-quote-left fa-3x" style="position: absolute; left: 15px; bottom: 10px; opacity: 0.5; color: #fff;"></i>
@@ -115,4 +114,5 @@ Images × <img width="736" height="414" alt="image" src="https://github.com/user
 
 <!-- == END MOODBOARD == -->
                 
+
 
